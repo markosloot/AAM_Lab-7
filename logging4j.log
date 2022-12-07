@@ -1,0 +1,15 @@
+2022-12-05 14:52:14 [INFO ] FXMLDocumentController:53 - Start log4j
+2022-12-05 14:52:14 [INFO ] FXMLDocumentController:54 - Hi Logger info!
+2022-12-05 14:52:14 [WARN ] FXMLDocumentController:55 - Warrning!
+2022-12-05 14:52:14 [ERROR] FXMLDocumentController:56 - Error!
+2022-12-05 14:52:14 [FATAL] FXMLDocumentController:57 - Fatal error!
+2022-12-06 13:19:25 [INFO ] FXMLDocumentController:53 - Start log4j
+2022-12-06 13:19:25 [INFO ] FXMLDocumentController:54 - Hi Logger info!
+2022-12-06 13:19:25 [WARN ] FXMLDocumentController:55 - Warrning!
+2022-12-06 13:19:25 [ERROR] FXMLDocumentController:56 - Error!
+2022-12-06 13:19:25 [FATAL] FXMLDocumentController:57 - Fatal error!
+2022-12-06 13:45:07 [INFO ] FXMLDocumentController:53 - Start log4j
+2022-12-06 13:45:07 [INFO ] FXMLDocumentController:54 - Hi Logger info!
+2022-12-06 13:45:07 [WARN ] FXMLDocumentController:55 - Warrning!
+2022-12-06 13:45:07 [ERROR] FXMLDocumentController:56 - Error!
+2022-12-06 13:45:07 [FATAL] FXMLDocumentController:57 - Fatal error!
